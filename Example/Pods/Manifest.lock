@@ -1,16 +1,16 @@
 PODS:
-  - SSSlider (1.0.1)
+  - SSSlider (1.0.2)
 
 DEPENDENCIES:
   - SSSlider (from `../`)
 
 EXTERNAL SOURCES:
   SSSlider:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  SSSlider: 1a52c7ba8258d2edaa40695490da7c011aa2b2a6
+  SSSlider: 55d760cfcec1899e8492ff13d529070eabcdad63
 
 PODFILE CHECKSUM: 65d68360e25198cb1adb4ab342991fe217aae1ed
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.11.3
